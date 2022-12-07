@@ -1,0 +1,1 @@
+# maven_java_deleteWhitespace_proje_alistirmasi
